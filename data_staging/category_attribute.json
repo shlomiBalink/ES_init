@@ -1,0 +1,4 @@
+{"_index":"category_attribute","_type":"_doc","_id":"default-mapping","_score":1,"_source":{"id":"default-mapping","category":"default","attributes":[{"attribute":"size","position":1}]}}
+{"_index":"category_attribute","_type":"_doc","_id":"customizable-mapping","_score":1,"_source":{"id":"customizable-mapping","category":"customizable","attributes":[{"attribute":"size","position":1}]}}
+{"_index":"category_attribute","_type":"_doc","_id":"collections-mapping","_score":1,"_source":{"id":"collections-mapping","category":"collections","attributes":[{"attribute":"size","position":1}]}}
+{"_index":"category_attribute","_type":"_doc","_id":"high-jewelry-mapping","_score":1,"_source":{"id":"high-jewelry-mapping","category":"high-jewelry","attributes":[{"attribute":"size","position":1}]}}

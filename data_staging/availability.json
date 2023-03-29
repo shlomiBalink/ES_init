@@ -1,0 +1,3 @@
+{"_index":"availability","_type":"_doc","_id":"myStore","_score":1,"_source":{"id":"myStore","key":"filter.myStore"}}
+{"_index":"availability","_type":"_doc","_id":"nearBy","_score":1,"_source":{"id":"nearBy","key":"filter.nearBy"}}
+{"_index":"availability","_type":"_doc","_id":"all","_score":1,"_source":{"id":"all","key":"filter.all"}}

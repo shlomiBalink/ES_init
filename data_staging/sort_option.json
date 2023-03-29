@@ -1,0 +1,3 @@
+{"_index":"sort_option","_type":"_doc","_id":"default","_score":1,"_source":{"id":"default","field":"availability","secondaryField":"name","isAscending":false,"priority":1}}
+{"_index":"sort_option","_type":"_doc","_id":"price_asc","_score":1,"_source":{"id":"price_asc","field":"price","isAscending":true}}
+{"_index":"sort_option","_type":"_doc","_id":"price_desc","_score":1,"_source":{"id":"price_desc","field":"price","isAscending":false}}

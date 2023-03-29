@@ -1,0 +1,10 @@
+{"_index":"attributes","_type":"_doc","_id":"occasion","_score":1,"_source":{"id":"occasion","type":"filter","isMultiValue":true,"isDisplayable":false}}
+{"_index":"attributes","_type":"_doc","_id":"material","_score":1,"_source":{"id":"material","type":"filter","isMultiValue":true,"isDisplayable":false}}
+{"_index":"attributes","_type":"_doc","_id":"color","_score":1,"_source":{"id":"color","type":"filter","isMultiValue":true,"isDisplayable":true}}
+{"_index":"attributes","_type":"_doc","_id":"gem","_score":1,"_source":{"id":"gem","type":"filter","isMultiValue":true,"isDisplayable":true}}
+{"_index":"attributes","_type":"_doc","_id":"nature","_score":1,"_source":{"id":"nature","type":"filter","isMultiValue":true,"isDisplayable":false}}
+{"_index":"attributes","_type":"_doc","_id":"collection","_score":1,"_source":{"id":"collection","type":"filter","isMultiValue":true,"isDisplayable":false}}
+{"_index":"attributes","_type":"_doc","_id":"isComposed","_score":1,"_source":{"id":"isComposed","type":"filter","isMultiValue":false,"isTranslatable":true,"isDisplayable":false}}
+{"_index":"attributes","_type":"_doc","_id":"longDescription","_score":1,"_source":{"id":"longDescription","format":"html","type":"information"}}
+{"_index":"attributes","_type":"_doc","_id":"shortDescription","_score":1,"_source":{"id":"shortDescription","format":"text","type":"information"}}
+{"_index":"attributes","_type":"_doc","_id":"size","_score":1,"_source":{"id":"size","type":"variation","name":"size","field":"variations","fieldName":"size","format":"string"}}

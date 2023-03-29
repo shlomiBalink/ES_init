@@ -1,0 +1,89 @@
+{"_index":"category_en","_type":"_doc","_id":"root","_score":1,"_source":{"id":"root","name":"Root","isEmpty":false,"showInMenu":false}}
+{"_index":"category_en","_type":"_doc","_id":"customizable","_score":1,"_source":{"id":"customizable","name":"Customizables","isEmpty":false,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"all-customizable-customizable","_score":1,"_source":{"id":"all-customizable-customizable","name":"All customizables","isEmpty":false,"showInMenu":true,"parent_id":"customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"10","_score":1,"_source":{"id":"10","name":"Force 10 Bracelets","isEmpty":false,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"20","_score":1,"_source":{"id":"20","name":"Chance Infinie Bracelets","isEmpty":false,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"30","_score":1,"_source":{"id":"30","name":"Cables","isEmpty":false,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"40","_score":1,"_source":{"id":"40","name":"Pain de Sucre","isEmpty":false,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"50","_score":1,"_source":{"id":"50","name":"Pain de Sucre Bracelets","isEmpty":true,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"60","_score":1,"_source":{"id":"60","name":"Pain de Sucre Necklaces","isEmpty":true,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"70","_score":1,"_source":{"id":"70","name":"Cabochons","isEmpty":false,"showInMenu":true,"parent_id":"all-customizable-customizable"}}
+{"_index":"category_en","_type":"_doc","_id":"collections","_score":1,"_source":{"id":"collections","name":"Collections","isEmpty":false,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"all-collections-collections","_score":1,"_source":{"id":"all-collections-collections","name":"All collections","isEmpty":false,"showInMenu":true,"parent_id":"collections"}}
+{"_index":"category_en","_type":"_doc","_id":"80","_score":1,"_source":{"id":"80","name":"Force 10","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"90","_score":1,"_source":{"id":"90","name":"Chance Infinie","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"351","_score":1,"_source":{"id":"351","name":"Pretty Woman","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"100","_score":1,"_source":{"id":"100","name":"Pain de Sucre","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"110","_score":1,"_source":{"id":"110","name":"Success","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"120","_score":1,"_source":{"id":"120","name":"Baie des Anges","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"130","_score":1,"_source":{"id":"130","name":"Belles Rives","isEmpty":true,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"140","_score":1,"_source":{"id":"140","name":"Une Île d'or","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"350","_score":1,"_source":{"id":"350","name":"Ombre Féline","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"categories-collections","_score":1,"_source":{"id":"categories-collections","name":"Categories","isEmpty":false,"showInMenu":true,"parent_id":"collections"}}
+{"_index":"category_en","_type":"_doc","_id":"150","_score":1,"_source":{"id":"150","name":"Bracelets","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"160","_score":1,"_source":{"id":"160","name":"Rings","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"170","_score":1,"_source":{"id":"170","name":"Cables","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"180","_score":1,"_source":{"id":"180","name":"Cabochons","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"190","_score":1,"_source":{"id":"190","name":"Necklaces","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"200","_score":1,"_source":{"id":"200","name":"Earrings","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"220","_score":1,"_source":{"id":"220","name":"Eyewear","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"230","_score":1,"_source":{"id":"230","name":"Men","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"380","_score":1,"_source":{"id":"380","name":"New","isEmpty":true,"showInMenu":false,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"390","_score":1,"_source":{"id":"390","name":"Best Seller","isEmpty":true,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"210","_score":1,"_source":{"id":"210","name":"Brooches","isEmpty":false,"showInMenu":true,"parent_id":"categories-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"for-those-moments…-collections","_score":1,"_source":{"id":"for-those-moments…-collections","name":"For those moments…","isEmpty":true,"showInMenu":true,"parent_id":"collections"}}
+{"_index":"category_en","_type":"_doc","_id":"wedding-and-celebrations-collections","_score":1,"_source":{"id":"wedding-and-celebrations-collections","name":"Those life moments...","isEmpty":false,"showInMenu":true,"parent_id":"collections"}}
+{"_index":"category_en","_type":"_doc","_id":"240","_score":1,"_source":{"id":"240","name":"Par Amour","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"250","_score":1,"_source":{"id":"250","name":"Anniversary","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"260","_score":1,"_source":{"id":"260","name":"Graduation and unique moments","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"christmas","_score":1,"_source":{"id":"christmas","name":"Holiday Season","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"263","_score":1,"_source":{"id":"263","name":"Parent's day","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"264","_score":1,"_source":{"id":"264","name":"Show her your love","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"265","_score":1,"_source":{"id":"265","name":"Show him your love","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"261","_score":1,"_source":{"id":"261","name":"Chinese New Year","isEmpty":false,"showInMenu":true,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"262","_score":1,"_source":{"id":"262","name":"Celebrating love","isEmpty":false,"showInMenu":false,"parent_id":"wedding-and-celebrations-collections"}}
+{"_index":"category_en","_type":"_doc","_id":"high-jewelry","_score":1,"_source":{"id":"high-jewelry","name":"High Jewelry","isEmpty":false,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"all-collections-high-jewelry","_score":1,"_source":{"id":"all-collections-high-jewelry","name":"All collections","isEmpty":false,"showInMenu":true,"parent_id":"high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"270","_score":1,"_source":{"id":"270","name":"Force 10","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"280","_score":1,"_source":{"id":"280","name":"Chance Infinie","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"370","_score":1,"_source":{"id":"370","name":"Pretty Woman","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"290","_score":1,"_source":{"id":"290","name":"Pain de Sucre","isEmpty":true,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"300","_score":1,"_source":{"id":"300","name":"Success","isEmpty":true,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"310","_score":1,"_source":{"id":"310","name":"Baie des anges","isEmpty":true,"showInMenu":false,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"320","_score":1,"_source":{"id":"320","name":"Belles Rives","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"330","_score":1,"_source":{"id":"330","name":"Une Ile d'or","isEmpty":true,"showInMenu":false,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"360","_score":1,"_source":{"id":"360","name":"Ombre Féline","isEmpty":false,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"340","_score":1,"_source":{"id":"340","name":"Others","isEmpty":true,"showInMenu":true,"parent_id":"all-collections-high-jewelry"}}
+{"_index":"category_en","_type":"_doc","_id":"new","_score":1,"_source":{"id":"new","name":"News","isEmpty":true,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"thehouse","_score":1,"_source":{"id":"thehouse","name":"The Maison","isEmpty":true,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"ourboutiquessansmenu","_score":1,"_source":{"id":"ourboutiquessansmenu","name":"Our Boutiques","isEmpty":true,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"ourboutiques","_score":1,"_source":{"id":"ourboutiques","name":"Our Boutiques","isEmpty":true,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"490","_score":1,"_source":{"id":"490","name":"Find a boutique worldwide","isEmpty":true,"showInMenu":true,"parent_id":"ourboutiques"}}
+{"_index":"category_en","_type":"_doc","_id":"500","_score":1,"_source":{"id":"500","name":"Our online resellers","isEmpty":true,"showInMenu":true,"parent_id":"ourboutiques"}}
+{"_index":"category_en","_type":"_doc","_id":"service&contact","_score":1,"_source":{"id":"service&contact","name":"Services & Contacts","isEmpty":true,"showInMenu":true,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1001","_score":1,"_source":{"id":"1001","name":"Bracelets","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1002","_score":1,"_source":{"id":"1002","name":"Bracelets taille","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1003","_score":1,"_source":{"id":"1003","name":"Rings","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1004","_score":1,"_source":{"id":"1004","name":"Câbles GM","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1005","_score":1,"_source":{"id":"1005","name":"Cabochons GM","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1006","_score":1,"_source":{"id":"1006","name":"Necklaces","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1007","_score":1,"_source":{"id":"1007","name":"Colliers taille","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1008","_score":1,"_source":{"id":"1008","name":"Earrings","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1009","_score":1,"_source":{"id":"1009","name":"Cuff links","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1010","_score":1,"_source":{"id":"1010","name":"Sunglasses","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1011","_score":1,"_source":{"id":"1011","name":"Boucles d'oreilles","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1012","_score":1,"_source":{"id":"1012","name":"Boucle F10 GM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1013","_score":1,"_source":{"id":"1013","name":"Monture bague PDS GM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1014","_score":1,"_source":{"id":"1014","name":"Monture collier PDS GM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1015","_score":1,"_source":{"id":"1015","name":"Monture bracelet PDS MM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1016","_score":1,"_source":{"id":"1016","name":"Engagement Rings","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1017","_score":1,"_source":{"id":"1017","name":"Boucle F10 MM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1018","_score":1,"_source":{"id":"1018","name":"Boucle 8 GM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1019","_score":1,"_source":{"id":"1019","name":"Boucle 8 MM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1020","_score":1,"_source":{"id":"1020","name":"Câbles MM","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1021","_score":1,"_source":{"id":"1021","name":"Monture bague PDS MM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1022","_score":1,"_source":{"id":"1022","name":"Monture collier PDS MM","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1023","_score":1,"_source":{"id":"1023","name":"Cabochons MM","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1024","_score":1,"_source":{"id":"1024","name":"Boucle F10 XL","isEmpty":true,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"1025","_score":1,"_source":{"id":"1025","name":"Câbles XL","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
+{"_index":"category_en","_type":"_doc","_id":"composed","_score":1,"_source":{"id":"composed","name":"Composed Products","isEmpty":false,"showInMenu":false,"parent_id":"root"}}
